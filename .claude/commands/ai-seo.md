@@ -1,0 +1,1 @@
+../../.agents/skills/ai-seo/SKILL.md

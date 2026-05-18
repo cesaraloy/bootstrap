@@ -1,0 +1,1 @@
+../../.agents/skills/competitor-profiling/SKILL.md
